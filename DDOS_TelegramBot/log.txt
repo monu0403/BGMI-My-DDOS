@@ -1,0 +1,66 @@
+UserID: 6001922744 | Time: 2024-07-27 15:19:22.957267 | Command: /bgmi | Target: 20.219.6.236 | Port: 10476 | Time: 180
+Username: @Razer358
+Target: 20.219.6.236
+Port: 10476
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:28:35.017301 | Command: /bgmi | Target: 4.213.65.165 | Port: 13346 | Time: 180
+Username: @Razer358
+Target: 4.213.65.165
+Port: 13346
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:29:02.772793 | Command: /bgmi | Target: 4.213.65.165 | Port: 13346 | Time: 180
+Username: @Razer358
+Target: 4.213.65.165
+Port: 13346
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:33:36.474197 | Command: /bgmi | Target: 20.235.150.111 | Port: 15321 | Time: 180
+Username: @Razer358
+Target: 20.235.150.111
+Port: 15321
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:33:43.892876 | Command: /bgmi | Target: 20.235.150.111 | Port: 15321 | Time: 180
+Username: @Razer358
+Target: 20.235.150.111
+Port: 15321
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:33:50.038022 | Command: /bgmi | Target: 20.235.150.111 | Port: 15321 | Time: 180
+Username: @Razer358
+Target: 20.235.150.111
+Port: 15321
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:34:01.232753 | Command: /bgmi | Target: 20.235.150.111 | Port: 15321 | Time: 180
+Username: @Razer358
+Target: 20.235.150.111
+Port: 15321
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:34:56.104600 | Command: /bgmi | Target: 52.172.249.203 | Port: 20000 | Time: 180
+Username: @Razer358
+Target: 52.172.249.203
+Port: 20000
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:40:24.719358 | Command: /bgmi | Target: 20.204.20.212 | Port: 10338 | Time: 180
+Username: @Razer358
+Target: 20.204.20.212
+Port: 10338
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:40:33.155489 | Command: /bgmi | Target: 20.204.20.212 | Port: 10338 | Time: 180
+Username: @Razer358
+Target: 20.204.20.212
+Port: 10338
+Time: 180
+
+UserID: 6001922744 | Time: 2024-07-27 15:41:16.782093 | Command: /bgmi | Target: 52.230.15.159 | Port: 17500 | Time: 180
+Username: @Razer358
+Target: 52.230.15.159
+Port: 17500
+Time: 180
+
